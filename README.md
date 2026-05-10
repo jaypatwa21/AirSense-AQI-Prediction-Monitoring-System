@@ -1,4 +1,4 @@
-# 🌍 AQI Drone Dashboard
+<img width="123" height="29" alt="image" src="https://github.com/user-attachments/assets/ea2d91c3-5eb3-4f45-aba1-9e4550a0ca11" /># 🌍 AQI Drone Dashboard
 
 A comprehensive **Air Quality Index (AQI) monitoring and prediction system** that combines real-time data collection, machine learning predictions, and an interactive web dashboard for environmental monitoring.
 
@@ -12,7 +12,7 @@ A comprehensive **Air Quality Index (AQI) monitoring and prediction system** tha
 ![AQI Dashboard](./ScreenShot/dashbaord.png)
 
 ### Prediction System
-![ML Predictions](./ScreenShot/prideiction ss.png)
+![ML Predictions](./ScreenShot/prideictionss.png)
 
 ### Drone Data Collection
 ![Drone Equipment](./ScreenShot/drone-photo.png)
