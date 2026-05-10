@@ -5,7 +5,7 @@ This file lists all images referenced in the README.md and their purposes.
 ## ✅ Already Added (Found)
 - ✅ `dashbaord.png` - Dashboard screenshot
 - ✅ `prideiction ss.png` - Prediction screenshot
-- ✅ `drone-photo.jpeg` - Drone equipment photo
+- ✅ `drone-photo.png` - Drone equipment photo
 
 ## 🎯 Images to Add (Optional but Recommended)
 
