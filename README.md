@@ -2,7 +2,22 @@
 
 A comprehensive **Air Quality Index (AQI) monitoring and prediction system** that combines real-time data collection, machine learning predictions, and an interactive web dashboard for environmental monitoring.
 
-![AQI Dashboard Hero](./ScreenShot/dashbaord.png)
+---
+
+## 📸 Project Highlights
+
+<div align="center">
+
+### Dashboard Interface
+![AQI Dashboard](./ScreenShot/dashbaord.png)
+
+### Prediction System
+![ML Predictions](./ScreenShot/prideiction ss.png)
+
+### Drone Data Collection
+![Drone Equipment](./ScreenShot/drone-photo.png)
+
+</div>
 
 ---
 
@@ -39,15 +54,11 @@ A comprehensive **Air Quality Index (AQI) monitoring and prediction system** tha
 - Pollution level breakdowns (PM2.5, PM10, etc.)
 - Historical data visualization with Recharts
 
-![Charts Dashboard](./ScreenShot/dashbaord.png)
-
 ### 🤖 **Machine Learning Predictions**
 - ML-powered AQI forecasting for 24-48 hour predictions
 - Multiple model support with accuracy metrics
 - Real vs. predicted values comparison
 - Feature importance analysis
-
-![ML Predictions](./ScreenShot/prideiction ss.png)
 
 ### 📈 **Model Performance Metrics**
 - MAE, RMSE, and R² score comparisons
@@ -62,8 +73,6 @@ A comprehensive **Air Quality Index (AQI) monitoring and prediction system** tha
 - Real-time sensor data transmission
 - Spatial data mapping and coverage analysis
 - Weather-resistant sensors and equipment
-
-![Drone in Action](./ScreenShot/drone-photo.jpeg)
 
 ### 🔐 **User Authentication**
 - Firebase-based secure authentication
@@ -510,14 +519,10 @@ python-dotenv==1.0.0
    - Quick stats for major locations
    - Recent alerts and notifications
 
-![Home Page](./ScreenShot/dashbaord.png)
-
 2. **Map View**
    - Click on markers to see detailed information
    - Use the time slider to view historical data
    - Toggle heat map layer for spatial distribution
-
-![Map Heatmap](./ScreenShot/dashbaord.png)
 
 3. **Analytics Page**
    - Compare multiple locations simultaneously
@@ -525,15 +530,11 @@ python-dotenv==1.0.0
    - Custom date range selection
    - Trend analysis with statistical summaries
 
-![Analytics Page](./ScreenShot/dashbaord.png)
-
 4. **Predictions**
    - View 24/48 hour forecasts
    - Compare prediction models
    - See confidence intervals
    - Download prediction reports
-
-![Predictions Page](./ScreenShot/prideiction ss.png)
 
 5. **Settings**
    - Configure alert thresholds
