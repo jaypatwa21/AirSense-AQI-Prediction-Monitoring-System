@@ -12,7 +12,7 @@ A comprehensive **Air Quality Index (AQI) monitoring and prediction system** tha
 ![AQI Dashboard](./ScreenShot/dashbaord.png)
 
 ### Prediction System
-![ML Predictions](./ScreenShot/prideictionss.png)
+![ML Predictions](./ScreenShot/prediction.png)
 
 ### Drone Data Collection
 ![Drone Equipment](./ScreenShot/drone-photo.png)
